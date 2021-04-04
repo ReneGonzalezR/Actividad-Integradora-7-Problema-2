@@ -1,8 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Services;
+﻿using System.Web.Services;
+/// <summary>
+/// Lenguaje de programacion III
+/// Autor: Rene Gonzalez Rodriguez
+/// Maestro: Aarón I. Salazar
+/// </summary>
 
 namespace Actividad_Integradora_7_Problema_2
 {

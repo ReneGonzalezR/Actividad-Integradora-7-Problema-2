@@ -10,7 +10,13 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Valida DNI</div>
+            Valida DNI<br />
+            DNI:
+            <asp:TextBox ID="txtDNI" runat="server"></asp:TextBox>
+&nbsp;<asp:Button ID="btnEnviar" runat="server" OnClick="btnEnviar_Click" Text="Enviar" />
+            <br />
+            <asp:Label ID="lblResultado" runat="server"></asp:Label>
+        </div>
     </form>
 </body>
 </html>
